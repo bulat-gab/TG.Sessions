@@ -1,0 +1,4 @@
+{
+    "session_1": "socks5://100.200.100.150:1111@login:pass",
+    "session_2": "socks5://200.133.233.111:4444@login:pass"
+}

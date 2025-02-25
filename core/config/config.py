@@ -7,7 +7,9 @@ class Settings(BaseSettings):
     API_ID: int
     API_HASH: str
 
-    USE_PROXY_FROM_FILE: bool = False
+    PROXY_FILE: str = None
+
+    SESSIONS_PATH: str = "sessions"
 
 
 settings = Settings()

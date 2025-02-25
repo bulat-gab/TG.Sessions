@@ -167,5 +167,4 @@ cython_debug/
 *.session
 
 user_agents.json
-
-*.json
+proxy.json
